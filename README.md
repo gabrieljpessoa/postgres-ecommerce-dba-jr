@@ -31,8 +31,6 @@ postgres-ecommerce-dba-jr/
 │   ├── 04_procedures.sql
 │   ├── 05_triggers.sql
 │   └── 06_backup_restore.sql
-├── jobs/                     # Rotinas de sistema operacional para o banco
-│   └── job_backup_diario.sh
 ├── docker-compose.yml        # Orquestração do contêiner e volumes
 └── README.md
 ```
